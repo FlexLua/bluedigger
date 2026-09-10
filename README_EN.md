@@ -107,7 +107,7 @@ Help me write code that makes the excavator start dancing.
 
 ---
 
-## Contact & Cooperation
+## Technical Exchange
 
 - WeChat: stdlib-h
 - Email: shineblink666@gmail.com

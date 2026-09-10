@@ -107,7 +107,7 @@
 
 ---
 
-## 联系与合作
+## 技术交流联系
 
 - 微信：stdlib-h
 - Email：shineblink666@gmail.com
